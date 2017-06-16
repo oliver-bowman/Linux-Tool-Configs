@@ -8,7 +8,7 @@ if [ "$TERM" = "screen-256color" ]; then
 fi
 # End of lines configured by zsh-newuser-install
 # The following lines were added by compinstall
-zstyle :compinstall filename '/home/oliver.bowman/.zshrc'
+zstyle :compinstall filename '~/.zshrc'
 
 autoload -Uz compinit
 compinit
